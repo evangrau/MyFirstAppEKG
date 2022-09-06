@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App EKG</string>
+    <string name="name">Name</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button">Button</string>
+    <string name="button_extras">About Me</string>
+    <string name="textview">TextView</string>
+    <string name="about_me">Hey! I\'m Evan Grau. I\'m a Sophomore CS major. My favorite game quote is probably \"Making the mother of all omellettes here, Jack. Can\'t fret over every egg\" from Senator Armstrong in Metal Gear Rising: Revengeance simply because of the memes. I just think it\'s funny. That whole game is just full of great memeable quotes, but that one is probably my favorite.</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
